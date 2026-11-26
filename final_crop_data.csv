@@ -1,0 +1,451 @@
+,Country,Crop_Type,Year,Yield_hg_ha,Nitrogen_Fertilizer_tonnes,Cropland_1000ha
+0,France,Barley,2000,6330.0,2316300.0,19495.1
+1,France,Barley,2001,5747.2,2397000.0,19480.6
+2,France,Barley,2002,6687.6,2203200.0,19499.8
+3,France,Barley,2003,5599.5,2375400.0,19470.8
+4,France,Barley,2004,6765.7,2324000.0,19478.8
+5,France,Barley,2005,6436.2,2205000.0,19488.2
+6,France,Barley,2006,6237.9,2204665.0,19435.6
+7,France,Barley,2007,5577.0,2402000.0,19358.3
+8,France,Barley,2008,6764.4,2099000.0,19320.0
+9,France,Barley,2009,6836.3,1900820.0,19283.4
+10,France,Barley,2010,6385.2,2043000.0,19311.8
+11,France,Barley,2011,5680.9,1944450.0,19281.6
+12,France,Barley,2012,6738.6,2024929.0,19285.5
+13,France,Barley,2013,6307.9,2168441.0,19302.2
+14,France,Barley,2014,6647.5,2159477.0,19328.3
+15,France,Barley,2015,7123.7,2239842.0,19465.0
+16,France,Barley,2016,5444.0,2191727.0,19348.036
+17,France,Barley,2017,6345.2,2347437.0,19463.775
+18,France,Barley,2018,6246.0,2169735.0,19132.2
+19,France,Barley,2019,6977.4,2024798.0,18973.0991
+20,France,Barley,2020,5205.9,2090172.0,18021.58
+21,France,Barley,2021,6542.7,1983186.0,18043.0679
+22,France,Barley,2022,6046.2,1733620.0,18014.1276
+23,France,Barley,2023,6688.8,1834820.0,17951.426
+24,France,Barley,2024,5346.6,1887009.0,17897.831
+25,France,Potatoes,2000,39598.7,2316300.0,19495.1
+26,France,Potatoes,2001,37438.5,2397000.0,19480.6
+27,France,Potatoes,2002,42380.4,2203200.0,19499.8
+28,France,Potatoes,2003,40360.8,2375400.0,19470.8
+29,France,Potatoes,2004,45416.2,2324000.0,19478.8
+30,France,Potatoes,2005,42222.7,2205000.0,19488.2
+31,France,Potatoes,2006,40190.9,2204665.0,19435.6
+32,France,Potatoes,2007,45334.7,2402000.0,19358.3
+33,France,Potatoes,2008,43519.4,2099000.0,19320.0
+34,France,Potatoes,2009,43785.6,1900820.0,19283.4
+35,France,Potatoes,2010,42156.6,2043000.0,19311.8
+36,France,Potatoes,2011,46899.1,1944450.0,19281.6
+37,France,Potatoes,2012,41376.9,2024929.0,19285.5
+38,France,Potatoes,2013,43156.0,2168441.0,19302.2
+39,France,Potatoes,2014,47977.9,2159477.0,19328.3
+40,France,Potatoes,2015,42505.2,2239842.0,19465.0
+41,France,Potatoes,2016,38826.7,2191727.0,19348.036
+42,France,Potatoes,2017,44046.0,2347437.0,19463.775
+43,France,Potatoes,2018,39388.6,2169735.0,19132.2
+44,France,Potatoes,2019,41322.7,2024798.0,18973.0991
+45,France,Potatoes,2020,40764.2,2090172.0,18021.58
+46,France,Potatoes,2021,42474.7,1983186.0,18043.0679
+47,France,Potatoes,2022,38113.0,1733620.0,18014.1276
+48,France,Potatoes,2023,42186.6,1834820.0,17951.426
+49,France,Potatoes,2024,42436.0,1887009.0,17897.831
+50,France,Wheat,2000,7117.5,2316300.0,19495.1
+51,France,Wheat,2001,6616.9,2397000.0,19480.6
+52,France,Wheat,2002,7445.5,2203200.0,19499.8
+53,France,Wheat,2003,6250.0,2375400.0,19470.8
+54,France,Wheat,2004,7578.8,2324000.0,19478.8
+55,France,Wheat,2005,6988.7,2205000.0,19488.2
+56,France,Wheat,2006,6741.4,2204665.0,19435.6
+57,France,Wheat,2007,6254.2,2402000.0,19358.3
+58,France,Wheat,2008,7101.8,2099000.0,19320.0
+59,France,Wheat,2009,7447.8,1900820.0,19283.4
+60,France,Wheat,2010,7040.5,2043000.0,19311.8
+61,France,Wheat,2011,6656.3,1944450.0,19281.6
+62,France,Wheat,2012,7151.2,2024929.0,19285.5
+63,France,Wheat,2013,7265.6,2168441.0,19302.2
+64,France,Wheat,2014,7353.0,2159477.0,19328.3
+65,France,Wheat,2015,7800.8,2239842.0,19465.0
+66,France,Wheat,2016,5289.6,2191727.0,19348.036
+67,France,Wheat,2017,7253.8,2347437.0,19463.775
+68,France,Wheat,2018,6768.0,2169735.0,19132.2
+69,France,Wheat,2019,7742.8,2024798.0,18973.0991
+70,France,Wheat,2020,6677.6,2090172.0,18021.58
+71,France,Wheat,2021,6928.4,1983186.0,18043.0679
+72,France,Wheat,2022,6996.7,1733620.0,18014.1276
+73,France,Wheat,2023,7201.6,1834820.0,17951.426
+74,France,Wheat,2024,5973.5,1887009.0,17897.831
+75,India,Barley,2000,1997.2,10920200.0,170130.0
+76,India,Barley,2001,1840.0,11310175.0,169825.0
+77,India,Barley,2002,2160.0,10469210.0,170032.0
+78,India,Barley,2003,2006.0,11077861.0,169799.0
+79,India,Barley,2004,1975.0,11712729.0,169891.0
+80,India,Barley,2005,1958.0,12723910.0,169674.0
+81,India,Barley,2006,1937.8,13760868.0,169462.0
+82,India,Barley,2007,2058.2,14417665.0,169202.0
+83,India,Barley,2008,1991.4,14863815.0,169395.0
+84,India,Barley,2009,2393.5,15558372.0,169724.0
+85,India,Barley,2010,2171.7,16450653.0,169234.0
+86,India,Barley,2011,2357.4,17367540.0,169369.0
+87,India,Barley,2012,2519.4,16820900.0,169346.0
+88,India,Barley,2013,2518.0,16750100.0,169442.0
+89,India,Barley,2014,2717.1,16949600.0,169463.0
+90,India,Barley,2015,2281.5,17372300.0,169413.0
+91,India,Barley,2016,2440.7,16735400.0,169317.0
+92,India,Barley,2017,2662.8,16958000.0,168895.0
+93,India,Barley,2018,2694.9,17628200.0,168778.0
+94,India,Barley,2019,2837.2,18863900.0,168669.0
+95,India,Barley,2020,2920.5,20404000.0,168048.0
+96,India,Barley,2021,2795.7,19438310.0,168139.67
+97,India,Barley,2022,3025.1,20206330.0,168231.33
+98,India,Barley,2023,3044.5,20456370.0,168323.0
+99,India,Barley,2024,3082.1,22147900.0,168010.0
+100,India,Potatoes,2000,18644.3,10920200.0,170130.0
+101,India,Potatoes,2001,18362.7,11310175.0,169825.0
+102,India,Potatoes,2002,19417.3,10469210.0,170032.0
+103,India,Potatoes,2003,17320.8,11077861.0,169799.0
+104,India,Potatoes,2004,18809.1,11712729.0,169891.0
+105,India,Potatoes,2005,18890.8,12723910.0,169674.0
+106,India,Potatoes,2006,18592.0,13760868.0,169462.0
+107,India,Potatoes,2007,16410.1,14417665.0,169202.0
+108,India,Potatoes,2008,19297.3,14863815.0,169395.0
+109,India,Potatoes,2009,18810.3,15558372.0,169724.0
+110,India,Potatoes,2010,19929.9,16450653.0,169234.0
+111,India,Potatoes,2011,22724.0,17367540.0,169369.0
+112,India,Potatoes,2012,21753.0,16820900.0,169346.0
+113,India,Potatoes,2013,22760.6,16750100.0,169442.0
+114,India,Potatoes,2014,22922.4,16949600.0,169463.0
+115,India,Potatoes,2015,23125.7,17372300.0,169413.0
+116,India,Potatoes,2016,20508.7,16735400.0,169317.0
+117,India,Potatoes,2017,22306.1,16958000.0,168895.0
+118,India,Potatoes,2018,23954.2,17628200.0,168778.0
+119,India,Potatoes,2019,23097.1,18863900.0,168669.0
+120,India,Potatoes,2020,23677.2,20404000.0,168048.0
+121,India,Potatoes,2021,24123.7,19438310.0,168139.67
+122,India,Potatoes,2022,25236.3,20206330.0,168231.33
+123,India,Potatoes,2023,25789.9,20456370.0,168323.0
+124,India,Potatoes,2024,24568.4,22147900.0,168010.0
+125,India,Wheat,2000,2778.5,10920200.0,170130.0
+126,India,Wheat,2001,2708.1,11310175.0,169825.0
+127,India,Wheat,2002,2762.1,10469210.0,170032.0
+128,India,Wheat,2003,2610.0,11077861.0,169799.0
+129,India,Wheat,2004,2713.2,11712729.0,169891.0
+130,India,Wheat,2005,2601.6,12723910.0,169674.0
+131,India,Wheat,2006,2618.8,13760868.0,169462.0
+132,India,Wheat,2007,2707.9,14417665.0,169202.0
+133,India,Wheat,2008,2802.2,14863815.0,169395.0
+134,India,Wheat,2009,2907.1,15558372.0,169724.0
+135,India,Wheat,2010,2839.5,16450653.0,169234.0
+136,India,Wheat,2011,2988.6,17367540.0,169369.0
+137,India,Wheat,2012,3177.5,16820900.0,169346.0
+138,India,Wheat,2013,3153.8,16750100.0,169442.0
+139,India,Wheat,2014,3145.7,16949600.0,169463.0
+140,India,Wheat,2015,2749.6,17372300.0,169413.0
+141,India,Wheat,2016,3033.9,16735400.0,169317.0
+142,India,Wheat,2017,3199.9,16958000.0,168895.0
+143,India,Wheat,2018,3368.2,17628200.0,168778.0
+144,India,Wheat,2019,3533.4,18863900.0,168669.0
+145,India,Wheat,2020,3439.8,20404000.0,168048.0
+146,India,Wheat,2021,3520.8,19438310.0,168139.67
+147,India,Wheat,2022,3537.3,20206330.0,168231.33
+148,India,Wheat,2023,3520.7,20456370.0,168323.0
+149,India,Wheat,2024,3559.0,22147900.0,168010.0
+150,Ireland,Barley,2000,7185.4,368410.0,490.1
+151,Ireland,Barley,2001,7017.6,366000.0,512.23
+152,Ireland,Barley,2002,5470.5,363513.0,521.23
+153,Ireland,Barley,2003,6541.2,391200.0,533.23
+154,Ireland,Barley,2004,7221.6,352165.0,523.65
+155,Ireland,Barley,2005,6231.1,345154.0,491.69
+156,Ireland,Barley,2006,6807.8,321588.0,470.08
+157,Ireland,Barley,2007,6713.4,308960.0,468.45
+158,Ireland,Barley,2008,6912.9,306806.0,488.35
+159,Ireland,Barley,2009,6339.4,362395.0,465.59
+160,Ireland,Barley,2010,6997.1,313649.0,440.84
+161,Ireland,Barley,2011,7818.4,296536.0,460.14
+162,Ireland,Barley,2012,6538.9,353044.0,483.61
+163,Ireland,Barley,2013,7578.9,331782.0,475.04
+164,Ireland,Barley,2014,8026.0,331782.0,466.18
+165,Ireland,Barley,2015,8575.9,330959.0,454.0
+166,Ireland,Barley,2016,7821.9,339104.0,462.0
+167,Ireland,Barley,2017,8357.0,369089.0,462.0
+168,Ireland,Barley,2018,6379.6,408495.0,452.0
+169,Ireland,Barley,2019,8249.3,367364.0,444.0
+170,Ireland,Barley,2020,6975.2,379519.0,445.0
+171,Ireland,Barley,2021,8190.1,399164.0,437.0
+172,Ireland,Barley,2022,8146.4,343193.0,447.0
+173,Ireland,Barley,2023,6569.7,280569.0,441.0
+174,Ireland,Barley,2024,7066.4,310411.0,434.0
+175,Ireland,Potatoes,2000,33688.9,368410.0,490.1
+176,Ireland,Potatoes,2001,33398.6,366000.0,512.23
+177,Ireland,Potatoes,2002,33675.3,363513.0,521.23
+178,Ireland,Potatoes,2003,34380.3,391200.0,533.23
+179,Ireland,Potatoes,2004,41518.8,352165.0,523.65
+180,Ireland,Potatoes,2005,34678.0,345154.0,491.69
+181,Ireland,Potatoes,2006,33295.7,321588.0,470.08
+182,Ireland,Potatoes,2007,34102.6,308960.0,468.45
+183,Ireland,Potatoes,2008,30794.6,306806.0,488.35
+184,Ireland,Potatoes,2009,27549.2,362395.0,465.59
+185,Ireland,Potatoes,2010,34393.4,313649.0,440.84
+186,Ireland,Potatoes,2011,34240.4,296536.0,460.14
+187,Ireland,Potatoes,2012,25777.8,353044.0,483.61
+188,Ireland,Potatoes,2013,38327.1,331782.0,475.04
+189,Ireland,Potatoes,2014,40315.8,331782.0,466.18
+190,Ireland,Potatoes,2015,42364.7,330959.0,454.0
+191,Ireland,Potatoes,2016,39111.1,339104.0,462.0
+192,Ireland,Potatoes,2017,44931.4,369089.0,462.0
+193,Ireland,Potatoes,2018,33172.5,408495.0,452.0
+194,Ireland,Potatoes,2019,44102.7,367364.0,444.0
+195,Ireland,Potatoes,2020,33762.7,379519.0,445.0
+196,Ireland,Potatoes,2021,45632.7,399164.0,437.0
+197,Ireland,Potatoes,2022,43339.2,343193.0,447.0
+198,Ireland,Potatoes,2023,39244.8,280569.0,441.0
+199,Ireland,Potatoes,2024,39606.5,310411.0,434.0
+200,Ireland,Wheat,2000,9453.8,368410.0,490.1
+201,Ireland,Wheat,2001,9060.1,366000.0,512.23
+202,Ireland,Wheat,2002,8444.0,363513.0,521.23
+203,Ireland,Wheat,2003,8297.8,391200.0,533.23
+204,Ireland,Wheat,2004,9924.1,352165.0,523.65
+205,Ireland,Wheat,2005,8431.7,345154.0,491.69
+206,Ireland,Wheat,2006,9154.3,321588.0,470.08
+207,Ireland,Wheat,2007,8462.6,308960.0,468.45
+208,Ireland,Wheat,2008,8968.4,306806.0,488.35
+209,Ireland,Wheat,2009,8166.9,362395.0,465.59
+210,Ireland,Wheat,2010,8601.5,313649.0,440.84
+211,Ireland,Wheat,2011,9864.1,296536.0,460.14
+212,Ireland,Wheat,2012,7223.5,353044.0,483.61
+213,Ireland,Wheat,2013,8998.3,331782.0,475.04
+214,Ireland,Wheat,2014,10014.0,331782.0,466.18
+215,Ireland,Wheat,2015,10667.7,330959.0,454.0
+216,Ireland,Wheat,2016,9539.0,339104.0,462.0
+217,Ireland,Wheat,2017,10167.2,369089.0,462.0
+218,Ireland,Wheat,2018,8373.2,408495.0,452.0
+219,Ireland,Wheat,2019,9378.7,367364.0,444.0
+220,Ireland,Wheat,2020,7765.9,379519.0,445.0
+221,Ireland,Wheat,2021,10076.7,399164.0,437.0
+222,Ireland,Wheat,2022,10430.5,343193.0,447.0
+223,Ireland,Wheat,2023,8661.0,280569.0,441.0
+224,Ireland,Wheat,2024,8139.7,310411.0,434.0
+225,Mongolia,Barley,2000,1005.4,3400.0,1176.0
+226,Mongolia,Barley,2001,560.0,3200.0,1177.8
+227,Mongolia,Barley,2002,685.1,4448.0,1179.6
+228,Mongolia,Barley,2003,1061.4,3986.0,1181.4
+229,Mongolia,Barley,2004,610.2,5873.0,1176.9
+230,Mongolia,Barley,2005,606.1,3657.0,1175.4
+231,Mongolia,Barley,2006,3629.3,6511.0,1177.3
+232,Mongolia,Barley,2007,1377.5,5981.0,1177.0
+233,Mongolia,Barley,2008,1045.0,6921.0,1199.0
+234,Mongolia,Barley,2009,1263.0,7520.0,1218.0562
+235,Mongolia,Barley,2010,903.8,11026.0,1239.03
+236,Mongolia,Barley,2011,1008.6,13933.0,1294.8
+237,Mongolia,Barley,2012,1409.4,16935.0,1323.1033
+238,Mongolia,Barley,2013,1363.1,25365.0,1291.78
+239,Mongolia,Barley,2014,1242.1,19127.0,1317.7
+240,Mongolia,Barley,2015,381.5,20685.0,1333.11
+241,Mongolia,Barley,2016,938.3,22963.0,1328.35
+242,Mongolia,Barley,2017,645.6,35672.0,1327.71
+243,Mongolia,Barley,2018,843.6,40518.0,1332.4
+244,Mongolia,Barley,2019,1290.5,0.0,1117.2
+245,Mongolia,Barley,2020,1021.8,43143.0,1127.5
+246,Mongolia,Barley,2021,890.8,1860.0,1126.1695
+247,Mongolia,Barley,2022,987.8,0.0,1140.0
+248,Mongolia,Barley,2023,1308.1,54228.0,1148.9685
+249,Mongolia,Barley,2024,1039.9,50778.0,1128.56
+250,Mongolia,Potatoes,2000,7472.7,3400.0,1176.0
+251,Mongolia,Potatoes,2001,6550.7,3200.0,1177.8
+252,Mongolia,Potatoes,2002,5070.7,4448.0,1179.6
+253,Mongolia,Potatoes,2003,9342.5,3986.0,1181.4
+254,Mongolia,Potatoes,2004,8832.7,5873.0,1176.9
+255,Mongolia,Potatoes,2005,8480.1,3657.0,1175.4
+256,Mongolia,Potatoes,2006,10171.6,6511.0,1177.3
+257,Mongolia,Potatoes,2007,9988.7,5981.0,1177.0
+258,Mongolia,Potatoes,2008,10965.2,6921.0,1199.0
+259,Mongolia,Potatoes,2009,11180.1,7520.0,1218.0562
+260,Mongolia,Potatoes,2010,12158.4,11026.0,1239.03
+261,Mongolia,Potatoes,2011,13113.9,13933.0,1294.8
+262,Mongolia,Potatoes,2012,14620.7,16935.0,1323.1033
+263,Mongolia,Potatoes,2013,12360.1,25365.0,1291.78
+264,Mongolia,Potatoes,2014,12229.4,19127.0,1317.7
+265,Mongolia,Potatoes,2015,12755.0,20685.0,1333.11
+266,Mongolia,Potatoes,2016,11004.1,22963.0,1328.35
+267,Mongolia,Potatoes,2017,9332.3,35672.0,1327.71
+268,Mongolia,Potatoes,2018,13219.4,40518.0,1332.4
+269,Mongolia,Potatoes,2019,11285.3,0.0,1117.2
+270,Mongolia,Potatoes,2020,13881.5,43143.0,1127.5
+271,Mongolia,Potatoes,2021,8527.9,1860.0,1126.1695
+272,Mongolia,Potatoes,2022,10183.5,0.0,1140.0
+273,Mongolia,Potatoes,2023,9234.0,54228.0,1148.9685
+274,Mongolia,Potatoes,2024,12817.5,50778.0,1128.56
+275,Mongolia,Wheat,2000,776.8,3400.0,1176.0
+276,Mongolia,Wheat,2001,720.0,3200.0,1177.8
+277,Mongolia,Wheat,2002,589.8,4448.0,1179.6
+278,Mongolia,Wheat,2003,791.4,3986.0,1181.4
+279,Mongolia,Wheat,2004,807.2,5873.0,1176.9
+280,Mongolia,Wheat,2005,477.5,3657.0,1175.4
+281,Mongolia,Wheat,2006,1083.0,6511.0,1177.3
+282,Mongolia,Wheat,2007,939.2,5981.0,1177.0
+283,Mongolia,Wheat,2008,1398.7,6921.0,1199.0
+284,Mongolia,Wheat,2009,1559.3,7520.0,1218.0562
+285,Mongolia,Wheat,2010,1380.5,11026.0,1239.03
+286,Mongolia,Wheat,2011,1496.1,13933.0,1294.8
+287,Mongolia,Wheat,2012,1565.0,16935.0,1323.1033
+288,Mongolia,Wheat,2013,1336.9,25365.0,1291.78
+289,Mongolia,Wheat,2014,1698.0,19127.0,1317.7
+290,Mongolia,Wheat,2015,571.7,20685.0,1333.11
+291,Mongolia,Wheat,2016,1315.4,22963.0,1328.35
+292,Mongolia,Wheat,2017,853.8,35672.0,1327.71
+293,Mongolia,Wheat,2018,1416.4,40518.0,1332.4
+294,Mongolia,Wheat,2019,1281.5,0.0,1117.2
+295,Mongolia,Wheat,2020,1235.1,43143.0,1127.5
+296,Mongolia,Wheat,2021,1442.7,1860.0,1126.1695
+297,Mongolia,Wheat,2022,1122.8,0.0,1140.0
+298,Mongolia,Wheat,2023,1320.4,54228.0,1148.9685
+299,Mongolia,Wheat,2024,1250.3,50778.0,1128.56
+300,United Kingdom of Great Britain and Northern Ireland,Barley,2000,5755.3,1115000.0,5928.0
+301,United Kingdom of Great Britain and Northern Ireland,Barley,2001,5349.4,1197000.0,5702.0
+302,United Kingdom of Great Britain and Northern Ireland,Barley,2002,5565.8,1197000.0,5836.0
+303,United Kingdom of Great Britain and Northern Ireland,Barley,2003,5910.8,1131000.0,5708.0
+304,United Kingdom of Great Britain and Northern Ireland,Barley,2004,5758.7,1125000.0,5868.0
+305,United Kingdom of Great Britain and Northern Ireland,Barley,2005,5858.2,1061000.0,5776.0
+306,United Kingdom of Great Britain and Northern Ireland,Barley,2006,5946.7,1003000.0,6139.0
+307,United Kingdom of Great Britain and Northern Ireland,Barley,2007,5655.9,1008000.0,6131.0
+308,United Kingdom of Great Britain and Northern Ireland,Barley,2008,5953.5,1001000.0,6051.0
+309,United Kingdom of Great Britain and Northern Ireland,Barley,2009,5833.8,948000.0,6092.0
+310,United Kingdom of Great Britain and Northern Ireland,Barley,2010,5702.5,1016000.0,6016.0
+311,United Kingdom of Great Britain and Northern Ireland,Barley,2011,5663.9,1022000.0,6107.0
+312,United Kingdom of Great Britain and Northern Ireland,Barley,2012,5511.0,1000000.0,6258.0
+313,United Kingdom of Great Britain and Northern Ireland,Barley,2013,5846.7,999000.0,6310.3
+314,United Kingdom of Great Britain and Northern Ireland,Barley,2014,6399.1,1060000.0,6278.3
+315,United Kingdom of Great Britain and Northern Ireland,Barley,2015,6693.9,1049000.0,6060.0
+316,United Kingdom of Great Britain and Northern Ireland,Barley,2016,5931.4,1026000.0,6072.6528
+317,United Kingdom of Great Britain and Northern Ireland,Barley,2017,6090.9,1041000.0,6130.5864
+318,United Kingdom of Great Britain and Northern Ireland,Barley,2018,5720.6,1033000.0,6083.953
+319,United Kingdom of Great Britain and Northern Ireland,Barley,2019,6926.0,1038000.0,6131.5423
+320,United Kingdom of Great Britain and Northern Ireland,Barley,2020,5848.0,967000.0,6023.5961
+321,United Kingdom of Great Britain and Northern Ireland,Barley,2021,6053.0,1014000.0,6055.8189
+322,United Kingdom of Great Britain and Northern Ireland,Barley,2022,6689.3,862000.0,6084.2708
+323,United Kingdom of Great Britain and Northern Ireland,Barley,2023,6124.0,871000.0,6086.1833
+324,United Kingdom of Great Britain and Northern Ireland,Barley,2024,5938.9,872000.0,6167.4669
+325,United Kingdom of Great Britain and Northern Ireland,Potatoes,2000,39975.9,1115000.0,5928.0
+326,United Kingdom of Great Britain and Northern Ireland,Potatoes,2001,40297.0,1197000.0,5702.0
+327,United Kingdom of Great Britain and Northern Ireland,Potatoes,2002,44088.6,1197000.0,5836.0
+328,United Kingdom of Great Britain and Northern Ireland,Potatoes,2003,40813.8,1131000.0,5708.0
+329,United Kingdom of Great Britain and Northern Ireland,Potatoes,2004,42478.1,1125000.0,5868.0
+330,United Kingdom of Great Britain and Northern Ireland,Potatoes,2005,43515.3,1061000.0,5776.0
+331,United Kingdom of Great Britain and Northern Ireland,Potatoes,2006,41588.7,1003000.0,6139.0
+332,United Kingdom of Great Britain and Northern Ireland,Potatoes,2007,40192.6,1008000.0,6131.0
+333,United Kingdom of Great Britain and Northern Ireland,Potatoes,2008,41659.7,1001000.0,6051.0
+334,United Kingdom of Great Britain and Northern Ireland,Potatoes,2009,44416.7,948000.0,6092.0
+335,United Kingdom of Great Britain and Northern Ireland,Potatoes,2010,43884.1,1016000.0,6016.0
+336,United Kingdom of Great Britain and Northern Ireland,Potatoes,2011,43219.2,1022000.0,6107.0
+337,United Kingdom of Great Britain and Northern Ireland,Potatoes,2012,30557.0,1000000.0,6258.0
+338,United Kingdom of Great Britain and Northern Ireland,Potatoes,2013,40899.3,999000.0,6310.3
+339,United Kingdom of Great Britain and Northern Ireland,Potatoes,2014,41922.0,1060000.0,6278.3
+340,United Kingdom of Great Britain and Northern Ireland,Potatoes,2015,43751.9,1049000.0,6060.0
+341,United Kingdom of Great Britain and Northern Ireland,Potatoes,2016,38812.9,1026000.0,6072.6528
+342,United Kingdom of Great Britain and Northern Ireland,Potatoes,2017,42589.0,1041000.0,6130.5864
+343,United Kingdom of Great Britain and Northern Ireland,Potatoes,2018,36142.9,1033000.0,6083.953
+344,United Kingdom of Great Britain and Northern Ireland,Potatoes,2019,36854.2,1038000.0,6131.5423
+345,United Kingdom of Great Britain and Northern Ireland,Potatoes,2020,38710.0,967000.0,6023.5961
+346,United Kingdom of Great Britain and Northern Ireland,Potatoes,2021,37440.0,1014000.0,6055.8189
+347,United Kingdom of Great Britain and Northern Ireland,Potatoes,2022,40042.7,862000.0,6084.2708
+348,United Kingdom of Great Britain and Northern Ireland,Potatoes,2023,40874.9,871000.0,6086.1833
+349,United Kingdom of Great Britain and Northern Ireland,Potatoes,2024,46581.1,872000.0,6167.4669
+350,United Kingdom of Great Britain and Northern Ireland,Wheat,2000,8007.5,1115000.0,5928.0
+351,United Kingdom of Great Britain and Northern Ireland,Wheat,2001,7082.7,1197000.0,5702.0
+352,United Kingdom of Great Britain and Northern Ireland,Wheat,2002,8002.8,1197000.0,5836.0
+353,United Kingdom of Great Britain and Northern Ireland,Wheat,2003,7779.8,1131000.0,5708.0
+354,United Kingdom of Great Britain and Northern Ireland,Wheat,2004,7775.4,1125000.0,5868.0
+355,United Kingdom of Great Britain and Northern Ireland,Wheat,2005,7960.9,1061000.0,5776.0
+356,United Kingdom of Great Britain and Northern Ireland,Wheat,2006,8036.1,1003000.0,6139.0
+357,United Kingdom of Great Britain and Northern Ireland,Wheat,2007,7224.4,1008000.0,6131.0
+358,United Kingdom of Great Britain and Northern Ireland,Wheat,2008,8281.4,1001000.0,6051.0
+359,United Kingdom of Great Britain and Northern Ireland,Wheat,2009,7928.4,948000.0,6092.0
+360,United Kingdom of Great Britain and Northern Ireland,Wheat,2010,7674.6,1016000.0,6016.0
+361,United Kingdom of Great Britain and Northern Ireland,Wheat,2011,7747.1,1022000.0,6107.0
+362,United Kingdom of Great Britain and Northern Ireland,Wheat,2012,6657.1,1000000.0,6258.0
+363,United Kingdom of Great Britain and Northern Ireland,Wheat,2013,7383.8,999000.0,6310.3
+364,United Kingdom of Great Britain and Northern Ireland,Wheat,2014,8578.6,1060000.0,6278.3
+365,United Kingdom of Great Britain and Northern Ireland,Wheat,2015,8976.0,1049000.0,6060.0
+366,United Kingdom of Great Britain and Northern Ireland,Wheat,2016,7889.7,1026000.0,6072.6528
+367,United Kingdom of Great Britain and Northern Ireland,Wheat,2017,8279.6,1041000.0,6130.5864
+368,United Kingdom of Great Britain and Northern Ireland,Wheat,2018,7754.6,1033000.0,6083.953
+369,United Kingdom of Great Britain and Northern Ireland,Wheat,2019,8934.5,1038000.0,6131.5423
+370,United Kingdom of Great Britain and Northern Ireland,Wheat,2020,6963.2,967000.0,6023.5961
+371,United Kingdom of Great Britain and Northern Ireland,Wheat,2021,7814.5,1014000.0,6055.8189
+372,United Kingdom of Great Britain and Northern Ireland,Wheat,2022,8590.4,862000.0,6084.2708
+373,United Kingdom of Great Britain and Northern Ireland,Wheat,2023,8127.9,871000.0,6086.1833
+374,United Kingdom of Great Britain and Northern Ireland,Wheat,2024,7281.3,872000.0,6167.4669
+375,United States of America,Barley,2000,3288.1,10703440.0,178068.0
+376,United States of America,Barley,2001,3126.7,10752682.0,178100.0
+377,United States of America,Barley,2002,2960.9,10969768.0,175707.0
+378,United States of America,Barley,2003,3167.3,11818620.0,173461.6
+379,United States of America,Barley,2004,3742.9,11191484.0,171216.2
+380,United States of America,Barley,2005,3487.3,10925951.0,168970.8
+381,United States of America,Barley,2006,3284.6,11969757.0,166725.4
+382,United States of America,Barley,2007,3227.9,11395419.0,164480.0
+383,United States of America,Barley,2008,3407.2,10397606.0,163125.54
+384,United States of America,Barley,2009,3915.0,11097590.0,161771.08
+385,United States of America,Barley,2010,3933.9,11624755.0,160416.63
+386,United States of America,Barley,2011,3716.0,12231299.0,159062.17
+387,United States of America,Barley,2012,3598.6,12249079.0,157707.7105
+388,United States of America,Barley,2013,3835.8,12060839.0,158253.53
+389,United States of America,Barley,2014,3911.5,11802200.0,158799.35
+390,United States of America,Barley,2015,3708.3,11829381.0,159345.16
+391,United States of America,Barley,2016,4193.1,11644828.0,159890.98
+392,United States of America,Barley,2017,3928.3,11581692.0,160436.8
+393,United States of America,Barley,2018,4167.4,11891321.0,159296.27
+394,United States of America,Barley,2019,4178.5,11760172.0,158155.73
+395,United States of America,Barley,2020,4150.8,11925954.0,157015.2
+396,United States of America,Barley,2021,3253.7,11722823.0,155874.66
+397,United States of America,Barley,2022,3858.5,11426152.0,154734.1251
+398,United States of America,Barley,2023,3896.3,11426152.0,154734.13
+399,United States of America,Barley,2024,4127.2,11426152.0,154734.13
+400,United States of America,Potatoes,2000,42716.1,10703440.0,178068.0
+401,United States of America,Potatoes,2001,40180.3,10752682.0,178100.0
+402,United States of America,Potatoes,2002,40566.9,10969768.0,175707.0
+403,United States of America,Potatoes,2003,41098.5,11818620.0,173461.6
+404,United States of America,Potatoes,2004,43815.2,11191484.0,171216.2
+405,United States of America,Potatoes,2005,43730.3,10925951.0,168970.8
+406,United States of America,Potatoes,2006,44094.9,11969757.0,166725.4
+407,United States of America,Potatoes,2007,44433.6,11395419.0,164480.0
+408,United States of America,Potatoes,2008,44437.3,10397606.0,163125.54
+409,United States of America,Potatoes,2009,46444.6,11097590.0,161771.08
+410,United States of America,Potatoes,2010,44943.8,11624755.0,160416.63
+411,United States of America,Potatoes,2011,44692.3,12231299.0,159062.17
+412,United States of America,Potatoes,2012,45776.2,12249079.0,157707.7105
+413,United States of America,Potatoes,2013,46357.7,12060839.0,158253.53
+414,United States of America,Potatoes,2014,47150.7,11802200.0,158799.35
+415,United States of America,Potatoes,2015,46900.0,11829381.0,159345.16
+416,United States of America,Potatoes,2016,48640.8,11644828.0,159890.98
+417,United States of America,Potatoes,2017,48388.7,11581692.0,160436.8
+418,United States of America,Potatoes,2018,49727.4,11891321.0,159296.27
+419,United States of America,Potatoes,2019,50752.2,11760172.0,158155.73
+420,United States of America,Potatoes,2020,51636.5,11925954.0,157015.2
+421,United States of America,Potatoes,2021,49752.8,11722823.0,155874.66
+422,United States of America,Potatoes,2022,49077.9,11426152.0,154734.1251
+423,United States of America,Potatoes,2023,51449.1,11426152.0,154734.13
+424,United States of America,Potatoes,2024,50899.5,11426152.0,154734.13
+425,United States of America,Wheat,2000,2823.8,10703440.0,178068.0
+426,United States of America,Wheat,2001,2701.8,10752682.0,178100.0
+427,United States of America,Wheat,2002,2356.7,10969768.0,175707.0
+428,United States of America,Wheat,2003,2971.2,11818620.0,173461.6
+429,United States of America,Wheat,2004,2902.6,11191484.0,171216.2
+430,United States of America,Wheat,2005,2823.1,10925951.0,168970.8
+431,United States of America,Wheat,2006,2598.6,11969757.0,166725.4
+432,United States of America,Wheat,2007,2704.6,11395419.0,164480.0
+433,United States of America,Wheat,2008,3017.5,10397606.0,163125.54
+434,United States of America,Wheat,2009,2989.7,11097590.0,161771.08
+435,United States of America,Wheat,2010,3116.7,11624755.0,160416.63
+436,United States of America,Wheat,2011,2942.2,12231299.0,159062.17
+437,United States of America,Wheat,2012,3115.4,12249079.0,157707.7105
+438,United States of America,Wheat,2013,3167.3,12060839.0,158253.53
+439,United States of America,Wheat,2014,2937.8,11802200.0,158799.35
+440,United States of America,Wheat,2015,2929.9,11829381.0,159345.16
+441,United States of America,Wheat,2016,3540.8,11644828.0,159890.98
+442,United States of America,Wheat,2017,3117.5,11581692.0,160436.8
+443,United States of America,Wheat,2018,3200.5,11891321.0,159296.27
+444,United States of America,Wheat,2019,3474.6,11760172.0,158155.73
+445,United States of America,Wheat,2020,3341.7,11925954.0,157015.2
+446,United States of America,Wheat,2021,2980.5,11722823.0,155874.66
+447,United States of America,Wheat,2022,3126.5,11426152.0,154734.1251
+448,United States of America,Wheat,2023,3269.4,11426152.0,154734.13
+449,United States of America,Wheat,2024,3446.2,11426152.0,154734.13
